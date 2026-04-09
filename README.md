@@ -1,4 +1,4 @@
-# Build a News Classifier with Text Embeddings
+# Lightweight Classifier Targeting C4 Domains (News)
 
 We are tasked with training a text classifier to predict news documents. The classifier can be potentially used for filtering pretraining data for LLMs, and the test set is imbalanced (90-10% split) to mimic a realistic setup.
 
